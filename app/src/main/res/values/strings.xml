@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Tour Guide Application</string>
+    <string name="name">Calabar Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tourist">Tourist Sites</string>
+    <string name="eatery">Eateries</string>
+    <string name="delicacies">Delicacies</string>
+    <string name="hotels">Hotels</string>
+
+    <string name="transcorp">Transcorp Hotels Calabar\nRelaxed rooms in a laid-back hotel with an international restaurant, an outdoor pool and a gym.</string>
+    <string name="transcorp_address">10 Murtala Mohammed Hwy, Big Qua Town, Calabar\ntel. +2348066900009</string>
+
+    <string name="channel">Channel View Hotel\nWelcome to channel view hotels, Calabar, the premier hotel destination for business and leisure.</string>
+    <string name="channel_address">Ikot Ekan Edem, Calabar\ntel. +234806708088</string>
+
+    <string name="axari">Axari Hotel and Suites\nIdeally situated in close proximity with Tinapa Business Resort and the city\'s airport.</string>
+    <string name="axari_address"> Muritala Muhammed Highway off Zone 6, Roundabout by Winner Way, Calabar\ntel. +2348071200017</string>
+
+    <string name="jorany">Jorany Hotel\nJorany Hotel is a hospitality center located in Calabar, Nigeria, with excellent services on accommodation, restaurants, drinks, conference and banquets hall.</string>
+    <string name="jorany_address">153 Asari Eso Layout, Ikot Eyo, Calabar\ntel. +2347038934999</string>
+
+    <string name="tinapa">Tinapa Resort</string>
+    <string name="tinapa_address">Adiabo, 8 Miles, Calabar Municipal</string>
+
+    <string name="obudu">Obudu Cattle Ranch</string>
+    <string name="obudu_address">Obudu, Cross River</string>
+
+    <string name="carnival">Calabar Carnival</string>
+    <string name="carnival_address">Calabar, Cross River\'s State</string>
+
+    <string name="park">Cross River National Park"</string>
+    <string name="park_address">Ikom - Abanliko Road, Basua</string>
+
+    <string name="museum">Slave Museum</string>
+    <string name="museum_address">Duke Town, Calabar</string>
+
+    <string name="tortuga">Tortuga Island</string>
+    <string name="tortuga_address">Marina Resort, Calabar</string>
+
+    <string name="bassey">Chief Ekpo Bassey\'s House</string>
+    <string name="bassey_address">19, Boko Street, Calabar</string>
+
+    <string name="kwafalls">Kwa Waterfalls</string>
+    <string name="kwafalls_address">Anegeje, Akamkpa LGA, Cross River State </string>
+
+    <string name="slessor">Mary Slessor\'s House</string>
+    <string name="slessor_address">Okoyong, Calabar</string>
+
+    <string name="edikang">Edikang-Ikong Soup</string>
+    <string name="edikang_info">For a typical Calabar woman, the Edikang-Ikong \nis the king of soups and the planning that goes \ninto its preparation shows that it is meant for kings.</string>
+
+    <string name="ekpang">Ekpang Nkwukwo</string>
+    <string name="ekpang_info">Ekpang Nkwukwo is a meal prepared from cocoyams, but the cocoyams is different from the type used to prepare \'\'achu\'\' and the method of preparation too differs. The cocoyams is peeled and using a special grater it is grinded into the paste.</string>
+
+    <string name="nut">Groundnut Soup</string>
+    <string name="nut_info">Groundnut Soup \(Peanut Soup\) is next best soup \nafter Egusi Soup. It is prepared the same way as Egusi Soup\n so you can apply the two methods of preparing Egusi Soup to Groundnut Soup with great results.</string>
+
+    <string name="ukang">Ukang Ukom</string>
+    <string name="ukang_info">It\’s a type of food mostly served at Calabar \(south west of Nigeria\) traditional weddings and usually prepared with unripe plantain as its main ingredient.</string>
+
+    <string name="crunchies">Crunchies Plus Calabar</string>
+    <string name="crunchies_address">8, Mary Slessor Ave, Calabar</string>
+
+    <string name="choice">De Choice Fast Food</string>
+    <string name="choice_address">Calabar Rd, Bogoberi, Calabar</string>
+
+    <string name="eme">Eme Inn Calabar</string>
+    <string name="eme_address">Ediba Rd, Leopad Town, Calabar</string>
+
+    <string name="crunch">Chrunchies Fried Chicken</string>
+    <string name="crunch_address">Akim Qua Town, Calabar</string>
+
+    <string name="delicacy">Native Delecacies Restaurant Calabar</string>
+    <string name="delicacy_address">118 Murtala Mohammed Hwy, Ikot Ekan Edem, Calabar</string>
+
+    <string name="happy">Happy Food</string>
+    <string name="happy_address">119 Ndidem Usang Iso Rd, Atekong, Calabar</string>
+
+    <string name="hacienda">Hacienda Calabar</string>
+    <string name="hacienda_address">Murtala Mohammed Hwy, Big Qua Town, Calabar</string>
+
+    <string name="closluce_name">Château du Clos Lucé</string>
+    <string name="closluce_address">2, rue du Clos Lucé\n37400 Amboise</string>
+
+    <string name="chenonceau_name">Château de Chenonceau</string>
+    <string name="chenonceau_address">Parc de Chenonceau\n37150 Chenonceaux</string>
+</resources>

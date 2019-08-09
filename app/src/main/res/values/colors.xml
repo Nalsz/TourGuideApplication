@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the tourists fragment -->
+    <color name="category_tourist">#F6F4F3</color>
+
+    <!-- Background color for the restaurant fragment -->
+    <color name="category_restaurant">#FFE2F1</color>
+
+    <!-- Background color for the restaurants fragment -->
+    <color name="category_restaurants">#FFF4D6</color>
+
+    <!-- Background color for the hotel fragment -->
+    <color name="category_hotel">#E8D7FF</color>
+</resources>
